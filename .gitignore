@@ -6,6 +6,7 @@ presentation.pbix
 question.pdf
 *.csv
 *.pptx
+key.json
 
 # C extensions
 *.so
